@@ -12,7 +12,7 @@
 
 ## Sobre esse repositório
 
-Este repositório é o meu **Caderno de Aprendizado**, onde vou documentar minhas atividades sobre a materia da residencia.
+Este repositório é o meu **Caderno de Aprendizado**, onde vou documentar minhas atividades sobre as materias da faculdade.
 
 ---
 
@@ -27,4 +27,6 @@ Este repositório é o meu **Caderno de Aprendizado**, onde vou documentar minha
 ---
 
 <p align="center">
-<img src"https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZsOWdjeXIxNjQxczViNGxhejdwcG83ZjFham1hNGM0c3MwYjZoNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du444G2zanbAnyYRcZ/giphy.gif">
+<img src"https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZsOWdjeXIxNjQxczViNGxhejdwcG83ZjFham1hNGM0c3MwYjZoNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du444G2zanbAnyYRcZ/giphy.gif" />
+
+---

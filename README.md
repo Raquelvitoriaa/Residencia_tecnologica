@@ -12,7 +12,7 @@
 
 ## Sobre esse repositório
 
-Este repositório é o meu **Caderno de Aprendizado**, onde vou documentar minhas atividades sobre as materias da faculdade.
+Este repositório é o meu **Caderno de Aprendizado**, onde vou documentar minhas atividades sobre umas das materias da faculdade.
 
 ---
 

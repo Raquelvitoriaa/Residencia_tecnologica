@@ -27,7 +27,7 @@ Este repositório é o meu **Caderno de Aprendizado**, onde vou documentar minha
 ---
 
 <p align="center">
-<img src"https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZsOWdjeXIxNjQxczViNGxhejdwcG83ZjFham1hNGM0c3MwYjZoNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du444G2zanbAnyYRcZ/giphy.gif" width="500">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzN0bGt6anZxbGF2NzZ6YWxjN2d6bnRrM3B5MHhuZnJpemIzbm50ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t3nIrsrrBfqaZykHGW/giphy.gif" width="500">
 </p>
 
 ---

@@ -2,7 +2,7 @@
 
 int opcao, numero1, numero2, valor;
 
-void main(void) {
+int main(void) {
 
 printf("-------------------------------\n");
 printf("CALCULADORA");
@@ -49,4 +49,6 @@ printf("Escolha a opcao acima: ");
         }
     
     printf("o valor total e de %d", valor);
+
+    retun 0;
 }
